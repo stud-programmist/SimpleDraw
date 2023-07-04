@@ -119,6 +119,15 @@ SimpleDraw это библиотека языка программировани
 
 :writing_hand: Немного о реализации:
 
+Чтобы нарисовать радугу в виде линий, использовалась встроенная функция line. Синтаксиск функции:
+
+      simple_draw.line(start_point=sd.get_point(start_x, start_y), end_point=sd.get_point(end_x, end_y), color=rainbow_colors[i], width=4)
+      
+      где start_x, start_y - значение начальных координат линии; end_x, end_y - значение конечных координат линии. В коде перменные инициализированы
+      Цвета радуги заданы в виде кортежа:
+
+      
+
 Результат работы метода:
 
  - simple_draw.line
