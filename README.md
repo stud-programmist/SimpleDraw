@@ -148,7 +148,7 @@ SimpleDraw это библиотека языка программировани
 
 Результат работы:
 <div align="left">
-        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/9.png" width= "300"/>
+        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/9.png" width= "400"/>
     </div>
 
 ---
@@ -159,7 +159,7 @@ SimpleDraw это библиотека языка программировани
 
 Результат работы:
 <div align="left">
-        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/10.png" width= "300"/>
+        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/10.png" width= "400"/>
     </div>
 
 ---
@@ -169,6 +169,6 @@ SimpleDraw это библиотека языка программировани
 
 Результат работы:
 <div align="left">
-        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/11.png" width= "300"/>
+        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/11.png" width= "400"/>
     </div>
 
