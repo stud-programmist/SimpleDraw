@@ -122,7 +122,13 @@ SimpleDraw это библиотека языка программировани
 Результат работы метода:
 
  - simple_draw.line
+   <div align="left">
+        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/7.png" width= "300"/>
+    </div>
  - simple_draw.circle
+   <div align="left">
+        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/8.png" width= "300"/>
+    </div>
 
 ---
 4. Нарисовать дерево. 
