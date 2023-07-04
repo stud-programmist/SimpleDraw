@@ -146,13 +146,29 @@ SimpleDraw это библиотека языка программировани
 
 :writing_hand: Немного о реализации:
 
+Результат работы:
+<div align="left">
+        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/9.png" width= "300"/>
+    </div>
+
 ---
 
 5. Нарисовать падающие снежинки. 
 
 :writing_hand: Немного о реализации:
 
+Результат работы:
+<div align="left">
+        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/10.png" width= "300"/>
+    </div>
+
 ---
 6. "Весенний пейзаж". 
 
 :writing_hand: Немного о реализации:
+
+Результат работы:
+<div align="left">
+        <img src="https://github.com/stud-programmist/SimpleDraw/blob/main/image/11.png" width= "300"/>
+    </div>
+
