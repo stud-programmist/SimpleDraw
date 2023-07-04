@@ -122,13 +122,15 @@ SimpleDraw это библиотека языка программировани
 Чтобы нарисовать радугу в виде линий, использовалась встроенная функция line. Синтаксиск функции:
 
       simple_draw.line(start_point=sd.get_point(start_x, start_y), end_point=sd.get_point(end_x, end_y), color=rainbow_colors[i], width=4)
-      
-      где start_x, start_y - значение начальных координат линии; end_x, end_y - значение конечных координат линии. В коде перменные инициализированы
-      Цвета радуги заданы в виде кортежа:
 
-      
+  где start_x, start_y - значение начальных координат линии; end_x, end_y - значение конечных координат линии. В коде перменные инициализированы
+  Цвета радуги заданы в виде кортежа:
 
-Результат работы метода:
+        rainbow_colors = (sd.COLOR_RED, sd.COLOR_ORANGE, sd.COLOR_YELLOW, sd.COLOR_GREEN, sd.COLOR_CYAN, sd.COLOR_BLUE, sd.COLOR_PURPLE)
+
+Для рисования радуги в виде дуги, использовалась функция simple_draw.circle. Работа функции аналогична той, что была реализована в коде файла 00_bubbles. Радиус окружностей расположен за пределами рабочего окна.
+
+Результат работы:
 
  - simple_draw.line
    <div align="left">
